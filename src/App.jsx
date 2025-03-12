@@ -8,7 +8,7 @@ import Productgrid from './sections/Productgrid'
 import Banner from './sections/Banner'
 import Reviews from './sections/Reviews'
 import Insta from './sections/Insta'
-import Hero from './sections/HEro'
+import Hero from './sections/Hero'
 
 function App() {
   return (
